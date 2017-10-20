@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoiffeurGo</string>
+    <string name="title_s_name">Nome</string>
+    <string name="title_s_geo">Localização</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
